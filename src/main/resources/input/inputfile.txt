@@ -1,0 +1,276 @@
+Andamans
+Nicobars
+East Godavari
+Mahbubnagar
+Prakasam
+Rangareddi
+West Godavari
+Changlang
+Dibang Valley
+East Kameng
+East Siang
+Lohit
+Lower Subansiri
+Papum Pare
+Upper Siang
+Upper Subansiri
+West Kameng
+West Siang
+Cachar
+Goalpara
+Golaghat
+Hailakandi
+Kamrup
+Karbi Anglong
+Karimganj
+Marigaon
+North Cachar Hills
+Sibsagar
+Sonitpur
+Banka
+Buxar
+Jamui
+Jehanabad
+Kaimur (Bhabua)
+Katihar
+Lakhisarai
+Madhepura
+Nalanda
+Pashchim Champaran
+Purba Champaran
+Rohtas
+Samastipur
+Sheikhpura
+Sheohar
+Supaul
+Vaishali
+Chandigarh
+Bastar
+Bilaspur
+Dantewada
+Dhamtari
+Durg
+Janjgir - Champa
+Jashpur
+Kanker
+Kawardha
+Korba
+Koriya
+Mahasamund
+Raigarh
+Rajnandgaon
+Surguja
+Dadra & Nagar Haveli
+Daman
+Central
+East
+New Delhi
+Anand
+Banas Kantha
+Dohad
+Kachchh
+Narmada
+Navsari
+Panch Mahals
+Patan
+Porbandar
+Sabar Kantha
+The Dangs
+Bhiwani
+Faridabad
+Fatehabad
+Hisar
+Jhajjar
+Jind
+Karnal
+Kurukshetra
+Panchkula
+Rewari
+Sonipat
+Chamba
+Kangra
+Kinnaur
+Kullu
+Lahul & Spiti
+Solan
+Baramula
+Kupwara
+Leh (Ladakh)
+Bokaro
+Chatra
+Dhanbad
+Garhwa
+Gumla
+Hazaribag
+Kodarma
+Pakaur
+Palamu
+Pashchimi Singhbhum
+Purbi Singhbhum
+Bagalkot
+Bangalore Rural
+Bidar
+Chamarajanagar
+Dakshina Kannada
+Davanagere
+Dharwad
+Gadag
+Haveri
+Kodagu
+Kolar
+Koppal
+Raichur
+Tumkur
+Udupi
+Uttara Kannada
+Ernakulam
+Pathanamthitta
+Wayanad
+Barwani
+Bhopal
+Dindori
+East Nimar
+Harda
+Katni
+Neemuch
+Ratlam
+Shajapur
+Sheopur
+Umaria
+West Nimar
+Amravati
+Bhandara
+Gadchiroli
+Gondiya
+Hingoli
+Mumbai (Suburban)
+Nandurbar
+Nashik
+Osmanabad
+Sindhudurg
+Solapur
+Thane
+Washim
+Yavatmal
+Chandel
+Imphal East
+Imphal West
+Senapati
+Thoubal
+East Garo Hills
+East Khasi Hills
+Jaintia Hills
+Ri Bhoi
+South Garo Hills
+West Garo Hills
+West Khasi Hills
+Champhai
+Kolasib
+Mamit
+Saiha
+Serchhip
+Dimapur
+Anugul
+Baudh
+Bhadrak
+Debagarh
+Gajapati
+Jagatsinghapur
+Jajapur
+Kalahandi
+Kandhamal
+Kendrapara
+Kendujhar
+Khordha
+Malkangiri
+Nabarangapur
+Nayagarh
+Nuapada
+Rayagada
+Sonapur
+Karaikal
+Bathinda
+Faridkot
+Fatehgarh Sahib
+Ludhiana
+Mansa
+Moga
+Muktsar
+Nawanshahr
+Baran
+Bhilwara
+Dausa
+Hanumangarh
+Karauli
+Rajsamand
+Sawai Madhopur
+Sikar
+Ariyalur
+Karur
+Nagapattinam
+Namakkal
+Perambalur
+The Nilgiris
+Theni
+Thiruvallur
+Thoothukkudi
+Tirunelveli
+Viluppuram
+Virudhunagar
+Dhalai
+North Tripura
+South Tripura
+West Tripura
+Allahabad
+Ambedkar Nagar
+Auraiya
+Azamgarh
+Baghpat
+Balrampur
+Barabanki
+Chandauli
+Chitrakoot
+Gautam Buddha Nagar
+Ghaziabad
+Hathras
+Jalaun
+Jyotiba Phule Nagar
+Kannauj
+Kanpur Dehat
+Kanpur Nagar
+Kaushambi
+Kushinagar
+Mahoba
+Mirzapur
+Moradabad
+Rae Bareli
+Saharanpur
+Sant Kabir Nagar
+Sant Ravidas Nagar
+Shrawasti
+Siddharthnagar
+Sonbhadra
+Varanasi
+Bageshwar
+Dehradun
+Nainital
+Rudraprayag
+Tehri Garhwal
+Udham Singh Nagar
+Uttarkashi
+Bankura
+Barddhaman
+Birbhum
+Dakshin Dinajpur
+Darjiling
+Haora
+Hugli
+Jalpaiguri
+Koch Bihar
+Maldah
+Medinipur
+Murshidabad
+Nadia
+North Twenty Four Parganas
+South  Twenty Four Parganas
+Uttar Dinajpur
