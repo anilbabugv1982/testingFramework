@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c916036-b6e8-4166-b936-dddcdfc8a6e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/input/inputfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataholder/tempSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/ImageCracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/TestCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/OCRdata/eng.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/input/M (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/input/meme1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testdata/eng.traineddata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/common/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/common/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/fileUtilities/fileCommons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/fileUtilities/fileCommons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/TestCases1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/TestCases1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input/inputfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/input/inputfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/output.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TempTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TempTestCases.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,53 +59,68 @@
     <session id="1795746679">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2237" />
+          <entry key="java" value="4186" />
           <entry key="txt" value="89" />
-          <entry key="xml" value="24" />
+          <entry key="xml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2237" />
+          <entry key="JAVA" value="4186" />
           <entry key="PLAIN_TEXT" value="89" />
-          <entry key="XML" value="24" />
+          <entry key="XML" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="26" />
-          <entry key="txt" value="4" />
-          <entry key="xml" value="3" />
+          <entry key="class" value="2" />
+          <entry key="java" value="43" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="26" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="3" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="43" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TempTestCases.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testcases/ImageCracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCases1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,28 +129,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/fileUtilities/fileCommons.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCase2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/common/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCases1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="129" selection-start-line="8" selection-start-column="129" selection-end-line="8" selection-end-column="129" />
             </state>
           </provider>
         </entry>
@@ -160,11 +164,17 @@
         <option value="$PROJECT_DIR$/src/main/java/utilities/common/Details.java" />
         <option value="$PROJECT_DIR$/src/main/java/TempTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/inputfile.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TempTestCases.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/utilities/fileUtilities/fileCommons.java" />
         <option value="$PROJECT_DIR$/src/main/java/utilities/common/Constant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataholder/tempSpace.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/input/inputfile.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/TempTestCases.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/testcases/TestCase3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcases/ImageCracker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcases/TestCase2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcases/TestCases1.java" />
       </list>
     </option>
   </component>
@@ -220,51 +230,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataholder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-              <item name="fileUtilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
@@ -277,14 +251,15 @@
               <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="OCRdata" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basicFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="basicFramework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testdata" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,18 +268,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535808779895" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535945898429" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.kotlin.data.view" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/input" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/input" />
+      <recent name="$PROJECT_DIR$/src/main/resources/OCRdata" />
       <recent name="$PROJECT_DIR$/src/main/resources/drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/testdata" />
+      <recent name="$PROJECT_DIR$/src/main/resources/input" />
+      <recent name="$PROJECT_DIR$/src/main/resources/OCRdata" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -319,25 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TempTestCases.testcase1">
-    <configuration name="All in basicFramework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basicFramework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TempTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="basicFramework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TempTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestCase2.testImage">
     <configuration name="TempTestCases" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="basicFramework" />
       <option name="PACKAGE_NAME" value="" />
@@ -360,18 +321,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="basicFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestCase2" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase2.testImage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="basicFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestCase2" />
+      <option name="METHOD_NAME" value="testImage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="basicFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestCases1" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.All in basicFramework" />
-      <item itemvalue="TestNG.TempTest" />
       <item itemvalue="TestNG.TempTestCases" />
       <item itemvalue="TestNG.TempTestCases.testcase1" />
+      <item itemvalue="TestNG.TestCases1" />
+      <item itemvalue="TestNG.TestCase2" />
+      <item itemvalue="TestNG.TestCase2.testImage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TempTestCases.testcase1" />
+        <item itemvalue="TestNG.TestCase2.testImage" />
+        <item itemvalue="TestNG.TestCase2" />
+        <item itemvalue="TestNG.TestCases1" />
         <item itemvalue="TestNG.TempTestCases" />
-        <item itemvalue="TestNG.TempTest" />
-        <item itemvalue="JUnit.All in basicFramework" />
+        <item itemvalue="TestNG.TempTestCases.testcase1" />
       </list>
     </recent_temporary>
   </component>
@@ -407,46 +420,53 @@
       <option name="project" value="LOCAL" />
       <updated>1535799225805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated small framework">
+      <created>1535808875577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535808875578</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TempTestCases - 2018.09.01 at 18h 44m 13s.xml">
-      <configuration name="TempTestCases" configurationId="TestNG" />
+    <history-entry file="TestCase2 - 2018.09.02 at 12h 45m 12s.xml">
+      <configuration name="TestCase2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases - 2018.09.01 at 18h 44m 28s.xml">
-      <configuration name="TempTestCases" configurationId="TestNG" />
+    <history-entry file="TestCase2 - 2018.09.02 at 12h 45m 19s.xml">
+      <configuration name="TestCase2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases - 2018.09.01 at 18h 44m 39s.xml">
-      <configuration name="TempTestCases" configurationId="TestNG" />
+    <history-entry file="TestCase2 - 2018.09.02 at 12h 48m 54s.xml">
+      <configuration name="TestCase2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 18h 47m 38s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2 - 2018.09.02 at 12h 56m 14s.xml">
+      <configuration name="TestCase2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 18h 52m 13s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2 - 2018.09.02 at 12h 57m 47s.xml">
+      <configuration name="TestCase2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 18h 52m 52s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2 - 2018.09.02 at 12h 59m 54s.xml">
+      <configuration name="TestCase2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 18h 54m 33s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2_testImage - 2018.09.02 at 13h 03m 49s.xml">
+      <configuration name="TestCase2.testImage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 18h 54m 45s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2_testImage - 2018.09.02 at 13h 04m 21s.xml">
+      <configuration name="TestCase2.testImage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 18h 59m 27s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2_testImage - 2018.09.02 at 13h 04m 32s.xml">
+      <configuration name="TestCase2.testImage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TempTestCases_testcase1 - 2018.09.01 at 19h 02m 58s.xml">
-      <configuration name="TempTestCases.testcase1" configurationId="TestNG" />
+    <history-entry file="TestCase2_testImage - 2018.09.02 at 13h 05m 14s.xml">
+      <configuration name="TestCase2.testImage" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27588046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,13 +476,13 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32972974" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -489,16 +509,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/TempTestCases.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/main/java/testcases/ImageCracker.java</url>
+          <line>11</line>
           <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -506,37 +520,48 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>new ChromeDriver()</expression-string>
+        <expression-string>instance.doOCR(imageFile)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>System.setProperty(&quot;webdriver.chrome.driver&quot;, Constant.extendedPath+Constant.path_chrome_linux)</expression-string>
+        <expression-string>imageFile.exists()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Constant.path_gecko_linux</expression-string>
+        <expression-string>datapath</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>changeddata</expression-string>
+        <expression-string>new File(datapath).getPath()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new File(extendedPath + filename).exists()</expression-string>
+        <expression-string>instance</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>filename</expression-string>
+        <expression-string>imageFile</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new File(filename).exists()</expression-string>
+        <expression-string>e.getCause()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Files.write(Paths.get(&quot;/home/loclhost/IdeaProjects/basicFramework/src/main/resources/output/test.txt&quot;),myList)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.nio.file.Files,java.nio.file.Paths</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Files.write(Paths.get(&quot;/home/loclhost/IdeaProjects/basicFramework/src/main/resources/output/test.txt&quot;),myList)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -573,44 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/input/inputfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="243" column="8" selection-start-line="243" selection-end-line="243" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/fileUtilities/fileCommons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCases1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utilities/common/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -618,10 +605,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output/output.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataholder/adobeUrls.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/fileUtilities/fileCommons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataholder/tempSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/selenium/TestBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input/inputfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="586" lean-forward="true" selection-start-line="586" selection-end-line="586" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TempTestCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCase3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcases/ImageCracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCase2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="129" selection-start-line="8" selection-start-column="129" selection-end-line="8" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcases/TestCases1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

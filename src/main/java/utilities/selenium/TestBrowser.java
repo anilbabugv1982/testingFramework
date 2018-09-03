@@ -2,6 +2,7 @@ package utilities.selenium;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.opera.OperaDriver;
 import utilities.common.Constant;
@@ -37,7 +38,10 @@ public class TestBrowser {
         } else {
             System.setProperty("webdriver.chrome.driver", Constant.path_chrome_linux);
         }
-        return new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("headless");
+        options.addArguments("window-size=1200x600");
+        return new ChromeDriver(options);
     }
 
     public static WebDriver getOperaBrowser() {
